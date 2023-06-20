@@ -1,0 +1,29 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+    color:#444;
+    margin:0;
+}
+
+#footer {
+    color:aliceblue;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 100px;
+    background-color: #444;
+}
+
+#content {
+    margin-left: 15%;
+    margin-right: 35%;
+}
+
+.title{
+    font-size: 80px;
+    text-align: center;
+    font-family: Fantasy;
+}
+
